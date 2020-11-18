@@ -1,0 +1,7 @@
+# Project exclude paths
+/dfs-core/target/
+/dfs-springboot-start/target/
+/springboot-demo/target/
+**/.iml
+.idea
+
